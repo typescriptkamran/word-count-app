@@ -1,6 +1,6 @@
 {
   "name": "word-count-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple word count application",
   "main": "./dist/index.js",
   "type": "module",
